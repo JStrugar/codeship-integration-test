@@ -1,14 +1,14 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace ZVoter2.Core.Test
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
         private FirstClass _classUnderTest = new FirstClass();
 
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             Assert.AreEqual(2, FirstClass.Sum(1,1));
