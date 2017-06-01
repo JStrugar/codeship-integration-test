@@ -1,0 +1,18 @@
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.Test.dll
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.Test.pdb
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.dll
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.pdb
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\obj\Debug\ZVoter2.Core.Test.csprojResolveAssemblyReference.cache
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\obj\Debug\ZVoter2.Core.Test.dll
+C:\Users\jost\Documents\zvoter 2\ZVoter2\ZVoter2.Core.Test\obj\Debug\ZVoter2.Core.Test.pdb
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.Test.dll
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.Test.pdb
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.dll
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\bin\Debug\ZVoter2.Core.pdb
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\obj\Debug\ZVoter2.Core.Test.csprojResolveAssemblyReference.cache
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\obj\Debug\ZVoter2.Core.Test.dll
+C:\Users\jost\Documents\codeship-integration-test\ZVoter2\ZVoter2.Core.Test\obj\Debug\ZVoter2.Core.Test.pdb
