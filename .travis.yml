@@ -1,0 +1,11 @@
+language: csharp
+solution: ZVoter2.sln
+dotnet: 1.0.1
+dist: trusty
+install:
+  - nuget restore ZVoter2.sln
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release ZVoter2.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./ZVoter2.Core.Test/bin/Release/ZVoter2.Core.Test.dll
+
