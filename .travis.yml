@@ -8,4 +8,4 @@ install:
 script:
   - msbuild /p:Configuration=Release ZVoter2.sln
   - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./ZVoter2.Core.Test/bin/Release/ZVoter2.Core.Test.dll
-
+  - test-script.ps1
