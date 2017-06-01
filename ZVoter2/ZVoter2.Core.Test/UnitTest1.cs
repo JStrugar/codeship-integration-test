@@ -7,6 +7,7 @@ namespace ZVoter2.Core.Test
     public class UnitTest1
     {
         private FirstClass _classUnderTest = new FirstClass();
+
         [TestMethod]
         public void TestMethod1()
         {
