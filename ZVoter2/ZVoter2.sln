@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZVoter2.Core", "ZVoter2.Core\ZVoter2.Core.csproj", "{A8B44DEF-BC9D-4595-9232-74B940E596E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZVoter2.Core.Test", "ZVoter2.Core.Test\ZVoter2.Core.Test.csproj", "{06CF70DA-19F9-4DE5-A874-24F97CBF3165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B44DEF-BC9D-4595-9232-74B940E596E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B44DEF-BC9D-4595-9232-74B940E596E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B44DEF-BC9D-4595-9232-74B940E596E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B44DEF-BC9D-4595-9232-74B940E596E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CF70DA-19F9-4DE5-A874-24F97CBF3165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CF70DA-19F9-4DE5-A874-24F97CBF3165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CF70DA-19F9-4DE5-A874-24F97CBF3165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CF70DA-19F9-4DE5-A874-24F97CBF3165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
